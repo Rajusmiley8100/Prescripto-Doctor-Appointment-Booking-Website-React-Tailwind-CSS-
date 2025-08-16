@@ -1,8 +1,7 @@
 import { defineConfig } from 'vite'
-import tailwindcss from '@tailwindcss/vite'
+import react from '@vitejs/plugin-react'
+
 export default defineConfig({
-  plugins: [
-    tailwindcss(),
-  ],
-  base: '/Prescripto-Doctor-Appointment-Booking-Website-React-Tailwind-CSS-/' // repo name
+  plugins: [react()],
+  base: '/Prescripto-Doctor-Appointment-Booking-Website-React-Tailwind-CSS-/', // optional for repo
 })
