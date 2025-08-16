@@ -1,12 +1,32 @@
-# React + Vite
+# Prescripto – Doctor Appointment Booking Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Prescripto is a modern, responsive doctor appointment booking website built with React.js, Tailwind CSS, and React Router.  
+Users can browse doctors by speciality, view profiles, and book appointments seamlessly.  
+Fully responsive and ready for backend integration.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- 📅 Book appointments with doctors
+- 🩺 View doctor profiles and details
+- 📱 Fully responsive UI
+- 🎨 Styled using Tailwind CSS
+- ⚡ Fast and lightweight
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** React JS, Tailwind CSS
+- **Routing:** React Router
+- **Icons:** React Icons / SVG
+- **State Management:** React Hooks
 
-## Expanding the ESLint configuration
+## 📂 Installation & Setup
+```bash
+# Clone the repository
+git clone https://github.com/Rajusmiley8100/Prescripto-Doctor-Appointment-Booking-Website-React-Tailwind-CSS-.git
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Navigate into the folder
+cd Prescripto-Doctor-Appointment-Booking-Website-React-Tailwind-CSS-
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
