@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Prescripto-Doctor-Appointment-Booking-Website-React-Tailwind-CSS-/', // optional for repo
+  base: '/', // optional for repo
 })
